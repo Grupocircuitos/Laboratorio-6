@@ -62,6 +62,19 @@ Resistor de 4.7 kΩ
 
 3.2.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultadosen la tabla 6.1.
 
+![image](https://user-images.githubusercontent.com/94025287/149858900-571e78b1-5733-4164-bd6c-29da54b3aabb.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149858931-4ee36cfb-aa85-4864-b7c6-b9f588b2e925.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149859069-458e674b-d6bf-45b1-b203-421b5382d24d.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149859443-ad24475a-4143-493a-bf19-5c4e14123f93.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149859635-dee4106a-5ea0-4e83-a3f6-30d141161578.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149859754-9419618e-a6f6-4a3d-8855-1391f4615ecd.png)
+
+
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 3.4.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente surespuesta.
