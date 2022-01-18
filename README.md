@@ -144,6 +144,8 @@ En el circuito dado si se cumplio el Teorema de la maxima transferencia de poten
 
 5.VIDEO
 
+https://youtu.be/V2PnTsn7fOU
+
 6.CONCLUSIONES
 
 • Como conclusión luego de la práctica reliazada podemos concluir que, si el valor de laresistencia de carga es igual a la resistencia de fuente se obtiene la mayor transferenciade energía. En la aplicación la resistencia de la fuente, Rs es la resistencia equivalente oresistencia de Thevenin.
