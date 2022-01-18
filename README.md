@@ -46,21 +46,63 @@ Objetivos Específicos:
 
 Resistor de 220 Ω
 
+![image](https://user-images.githubusercontent.com/94025287/149971047-ed50eaef-4ec3-4352-8083-25baa726201d.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971138-035c1dfd-8277-45c9-b0aa-1dd18083dad4.png)
+
 Resistor de 470 Ω
+
+![image](https://user-images.githubusercontent.com/94025287/149971070-bde700be-5696-4f13-9639-dff52a198780.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971102-80460fa7-e154-43ca-8294-51d3ce1b7d98.png)
 
 Resistor de 680 Ω
 
+![image](https://user-images.githubusercontent.com/94025287/149971179-e25fd92f-1ad8-4b4f-839b-93cfee96c5b0.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971206-3ad0c06f-8210-4ae2-840a-79e9ea8ed8b8.png)
+
 Resistor de 820 Ω
+
+![image](https://user-images.githubusercontent.com/94025287/149971245-3bc30f4c-9389-49a0-81a7-af40a3b6dfdb.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971282-a830523f-0296-4273-8672-5241800ecf25.png)
 
 Resistor de 1 kΩ
 
+![image](https://user-images.githubusercontent.com/94025287/149971329-d4143550-0ff5-4950-a867-36766efa8f0e.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971356-19777c47-afed-47b2-aa46-0a50f523dfd9.png)
+
 Resistor de 1.5 kΩ
+
+![image](https://user-images.githubusercontent.com/94025287/149971379-4bd3f786-13a7-478a-8d35-339916645c7e.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971405-d8b11535-a667-457a-8139-00fd87d0ed67.png)
 
 Resistor de 1.8 kΩ
 
+![image](https://user-images.githubusercontent.com/94025287/149971428-5924911a-690a-4284-95ae-8afc5ae771b6.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971461-668cf703-b0fc-4190-91d5-08b77c0ad4a3.png)
+
 Resistor de 2.2 kΩ
 
+![image](https://user-images.githubusercontent.com/94025287/149971510-0dc9d216-1c28-4af3-89fe-ee58f964ae6b.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971547-ae7a544b-78c4-4be4-887f-42e6c5cbad3a.png)
+
+Resistor de 3.9  KΩ
+
+![image](https://user-images.githubusercontent.com/94025287/149971709-69e47302-9687-4615-b539-9fd89ff80dd3.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971734-82b9d7a4-527d-4ee9-904b-4a2a21c3659d.png)
+
 Resistor de 4.7 kΩ
+
+![image](https://user-images.githubusercontent.com/94025287/149971764-6de7d6c2-5b42-4451-a9f9-c3946d14aaec.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149971783-dc611b3c-9222-42cd-99ee-8d8da521d82b.png)
 
 3.2.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultadosen la tabla 6.1.
 
