@@ -77,6 +77,8 @@ Resistor de 4.7 kΩ
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![image](https://user-images.githubusercontent.com/94025287/149860623-d187f7a3-a035-43c2-87c4-b4c8759feec8.png)
+
 3.4.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente surespuesta.
 
 En el circuito dado si se cumplio el Teorema de la maxima transferencia de potencia ya quela maxima potencia calculada se dio entre 1 kΩ y 1.5 kΩ que es igual a la resitencia internade la fuente que es de 1.2 kΩ
