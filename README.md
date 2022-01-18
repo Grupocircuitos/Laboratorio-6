@@ -28,6 +28,8 @@ Objetivos Específicos:
 
 2.MARCO TEÓRICO
 
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/94026628/149868658-34dd0aa9-e3c0-4023-b91c-4b73dd1f3841.png)
+
 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
 3.1 MATERIAL Y EQUIPO REQUERIDO
@@ -62,18 +64,25 @@ Resistor de 4.7 kΩ
 
 3.2.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultadosen la tabla 6.1.
 
-![image](https://user-images.githubusercontent.com/94025287/149858900-571e78b1-5733-4164-bd6c-29da54b3aabb.png)
+![image](https://user-images.githubusercontent.com/94026628/149866034-661a650f-7dda-4606-8fb0-3268cc1062b6.png)
 
-![image](https://user-images.githubusercontent.com/94025287/149858931-4ee36cfb-aa85-4864-b7c6-b9f588b2e925.png)
+![image](https://user-images.githubusercontent.com/94026628/149866066-7171befd-b3dc-4816-8733-d7d1e995c0f3.png)
 
-![image](https://user-images.githubusercontent.com/94025287/149859069-458e674b-d6bf-45b1-b203-421b5382d24d.png)
+![image](https://user-images.githubusercontent.com/94026628/149866204-1be9858b-0378-49cd-956d-6d0bded17907.png)
 
-![image](https://user-images.githubusercontent.com/94025287/149859443-ad24475a-4143-493a-bf19-5c4e14123f93.png)
+![image](https://user-images.githubusercontent.com/94026628/149866245-fe43cdef-04ca-4e3b-9d87-cf3b8729c65d.png)
 
-![image](https://user-images.githubusercontent.com/94025287/149859635-dee4106a-5ea0-4e83-a3f6-30d141161578.png)
+![image](https://user-images.githubusercontent.com/94026628/149866268-3b7979a7-6401-4136-970e-ef1cd33d945f.png)
 
-![image](https://user-images.githubusercontent.com/94025287/149859754-9419618e-a6f6-4a3d-8855-1391f4615ecd.png)
+![image](https://user-images.githubusercontent.com/94026628/149866287-d4735845-875d-4a32-8606-773db3d73d4f.png)
 
+![image](https://user-images.githubusercontent.com/94026628/149866305-b149a0f9-346b-49b0-9480-ebf8d056f2b6.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149866354-afeeeb17-ff8d-44da-a903-73d5b14ff9e3.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149866410-bda907c8-8f8e-4725-b868-35f379ac647d.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149866423-e63a2f44-1527-41f0-bb04-f0aecd69982c.png)
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
